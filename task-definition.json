@@ -21,5 +21,6 @@
     ],
     "networkMode": "awsvpc",
     "cpu": "256",
-    "memory": "512"
+    "memory": "512",
+    "executionRoleArn": "arn:aws:iam::716643470301:role/joaquin-ecs-task-execution-role"
 }
