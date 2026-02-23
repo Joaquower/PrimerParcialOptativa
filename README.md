@@ -13,6 +13,8 @@ Este proyecto contiene una aplicación **Next.js** profesional que se despliega 
 
 El archivo `.github/workflows/deploy.yml` realiza las siguientes acciones automáticamente en cada `push` a la rama `main`:
 
+cambio sexi
+
 1.  **Checkout:** Descarga el código.
 2.  **AWS Auth:** Se autentica en AWS usando Secrets de GitHub.
 3.  **ECR Login:** Se conecta al registro de contenedores creado en la Tarea 2.
