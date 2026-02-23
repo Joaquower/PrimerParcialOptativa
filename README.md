@@ -32,3 +32,4 @@ Debes configurar los siguientes **Secrets** en tu repositorio de GitHub (`Settin
 ## Sincronización con Tarea 2
 
 He configurado el puerto del contenedor en `3000` (estándar de Next.js) tanto en el Pipeline como en las variables de la Tarea 2 para asegurar una conexión perfecta a través del Load Balancer.
+IOSISIISIIS
